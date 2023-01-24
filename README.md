@@ -1,6 +1,6 @@
 # npm-package-example
 
-Example of npm package.
+Example of npm package.q
 
 1.  Create `package.json` and fill `name` and `version` field.
 2.  Add your script and `main` field in `package.json` to point the entry point.
